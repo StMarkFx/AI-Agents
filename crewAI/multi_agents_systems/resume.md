@@ -1,55 +1,49 @@
 ST. MARK ADEBAYO
-stmarkadebayo@gmail.com | +2348021286627 | LinkedIn | Github
+stmarkadebayo@gmail.com | +2348021286627 | LinkedIn | GitHub
 
-CAREER OBJECTIVE
-Enthusiastic AI/ML engineer with a solid foundation in machine learning, deep learning, and data science. Skilled in developing innovative AI solutions for real-world challenges, with experience across computer
-vision, natural language processing, and RAG systems. Seeking opportunities to apply advanced AI
-techniques and deliver impactful data-driven solutions. 
+PROFESSIONAL SUMMARY
+Enthusiastic Data Scientist and ML Engineer with 2+ years of experience developing innovative solutions using data
+analysis, machine learning techniques, and AI engineering. Skilled in building and deploying multi-AI agent systems, and
+RAG applications using LLMs and prompt engineering. Adept at leveraging data science for actionable insights and
+delivering user-centric products. 
 
 TECHNICAL SKILLS AND TOOLS
-Programming Languages: Python, SQL
+Languages: Python, SQL
 Data Science: Data Wrangling, Feature Engineering, Statistical Analysis, Data Visualization
-Machine & Deep Learning: Supervised & Unsupervised Learning, Regression, Classification, Clustering, Neural Networks, Convolutional Neural Networks (CNN), Transformers, Natural Language Processing (NLP)
-models (BERT, GPT, etc.)
-Frameworks/Libraries: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Keras
-Development Tools: Jupyter, Git, GitHub, Docker, Streamlit, ElasticSearch
+AI & Machine Learning: Supervised & Unsupervised Learning, NLP, LLMs Fine-Tuning, Prompt Engineering
+Frameworks/Libraries: TensorFlow, PyTorch, LangChain, CrewAI, Scikit-learn, Pandas, NumPy, Keras, Hugging Face
+Tools: Jupyter, Git, GitHub, Docker, Streamlit, ElasticSearch, Chroma
+Soft Skills: Problem-Solving, Critical Thinking, Communication, Time Management, Creative Thinking
 
 PROJECT EXPERIENCE
-- Multi-Modal RAG ChatBot
- Developed a Retrieval Augmented Generation (RAG) system integrating text, images, and documents.  Leveraged DistilBERT for embeddings and ElasticSearch for retrieval to create a chatbot with both NLP
-and visual understanding capabilities. Tools: Python, Streamlit, ElasticSearch, DistilBERT
-- Lagos Apartment Pulse
- Developed a real estate price prediction model for Lagos apartments using machine learning techniques.  Implemented data preprocessing, feature engineering, and model tuning to optimize prediction accuracy.  Created a user-friendly Streamlit web app that allows users to input property details (location, bedrooms, bathrooms, etc.) and get price predictions.  Leveraged ElasticNet for the predictive model and utilized clustering techniques to categorize property
-titles and locations. Tools: Python, Streamlit, Pandas, Scikit-learn, ElasticNet
-- AI for Plant Care
- Built a machine learning model that analyzes plant health based on image input.  Incorporated deep learning techniques using CNNs to detect diseases and provide care
-recommendations. Tools: TensorFlow, Keras, OpenCV
-- Sports Celebrity Classification (Computer Vision)
- Implemented an image classification system to identify and categorize images using a convolutional
-neural network.  Fine-tuned a pre-trained ResNet model for high accuracy on a custom dataset. Tools: PyTorch, Scikit-learn
+AI Agents Development
+ Built multi-AI agent crews for including financial analysis, event planning, lead generation, customer support, and research assistance. 
+ Tailored to automate specific workflows, such as creating outreach campaigns, providing actionable insights, and generating relevant content. 
+ Successfully developed a modular architecture for seamless agent integration and task automation.  Increased efficiency in diverse operational tasks, enabling better decision-making and reducing manual effort. 
+
+Efiko - AI-Powered Study Companion | LINK
+ Designed an AI-powered study chatbot with full RAG capabilities for personalized learning experiences. 
+ Implemented features include document analysis, conversation memory, session management, and PDF export. 
+ Integrated LangChain, Hugging Face, and Chroma to deliver adaptive learning and context-aware interactions. 
+ Empowered learners with an intuitive interface, enabling better comprehension and efficient study processes. 
+
+Lagos Apartment Pulse | LINK
+ Built a machine learning model for real estate price prediction in Lagos, optimizing accuracy through advanced techniques. 
+ Implemented ElasticNet regression and clustering techniques to categorize property features like location, ensuring precise predictions. 
+ Enhanced decision-making for property stakeholders with a user-friendly Streamlit app offering accurate price
+estimates. 
+
+Sports Celebrity Classification (Computer Vision)
+ Implemented an image classification system to identify and categorize sports celebrities, including Cristiano Ronaldo, LeBron James, and Naomi Osaka. 
+ Fine-tuned a pre-trained ResNet model, achieving high accuracy on a custom dataset. 
+ Delivered a scalable solution for efficient celebrity recognition in sports-related media applications. 
 
 PROFESSIONAL DEVELOPMENT AND CERTIFICATIONS
-Machine Learning Specialization - Stanford (2024)
-
-SOFT SKILLS AND INTERESTS
-Soft Skills: Problem-solving, Communication, Adaptability, Team Collaboration, Time Management
-Interests: Large Language Models, Generative AI, Computer Vision, AI Ethics, AI for Good Initiatives
-
-STRENGTHS
- Strong analytical mindset with a passion for AI-driven innovation
- Ability to translate complex problems into efficient machine learning solutions
- Collaborative team player with experience working in cross-functional teams
- Fast learner, capable of mastering new tools and framework. 
+3MTT Data Science - FMCIDE (2024)
+Machine Learning Specialization - Stanford x DeepLearning.AI (2024)
+AI Multi-Agents with CrewAI - DeepLearning.AI (2025)
+CS50x AI Programming with Python - Harvard University
 
 EDUCATION
 Obafemi Awolowo University (OAU)
-Bachelor of Science in Microbiology - 2026
-Osun, Nigeria
-
-
-VOLUNTEERING
-No-Code Developers (a Bubble.io summit)
- Volunteered in organizing a summit for developers using Bubble.io, focused on promoting low-code/no-code
-solutions in software development. Innovation Conference
- Volunteered in organizing the 2024 Ile-Ife Teenagers’ Innovation Conference, contributing to event planning, logistics, and digital media production.  Assisted with coordinating workshops and engaging participants in innovation-driven activities. REFEREES
-Available on request
+Bachelor of Science, Microbiology
