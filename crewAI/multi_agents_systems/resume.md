@@ -21,7 +21,7 @@ AI Agents Development
  Tailored to automate specific workflows, such as creating outreach campaigns, providing actionable insights, and generating relevant content. 
  Successfully developed a modular architecture for seamless agent integration and task automation.  Increased efficiency in diverse operational tasks, enabling better decision-making and reducing manual effort. 
 
-Efiko - AI-Powered Study Companion | LINK
+Efiko - AI-Powered Study Companion | LINK[https://studywithefiko.streamlit.app]
  Designed an AI-powered study chatbot with full RAG capabilities for personalized learning experiences. 
  Implemented features include document analysis, conversation memory, session management, and PDF export. 
  Integrated LangChain, Hugging Face, and Chroma to deliver adaptive learning and context-aware interactions. 
