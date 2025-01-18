@@ -27,7 +27,7 @@ Efiko - AI-Powered Study Companion | LINK
  Integrated LangChain, Hugging Face, and Chroma to deliver adaptive learning and context-aware interactions. 
  Empowered learners with an intuitive interface, enabling better comprehension and efficient study processes. 
 
-Lagos Apartment Pulse | LINK
+Lagos Apartment Pulse | LINK[https://lagosapartmentpulse-by-stmarkadebay0.streamlit.app/]
  Built a machine learning model for real estate price prediction in Lagos, optimizing accuracy through advanced techniques. 
  Implemented ElasticNet regression and clustering techniques to categorize property features like location, ensuring precise predictions. 
  Enhanced decision-making for property stakeholders with a user-friendly Streamlit app offering accurate price
